@@ -107,14 +107,14 @@ INSERT INTO categories (name, description) VALUES
 
 -- Insert Sample Products
 INSERT INTO products (category_id, name, description, price, stock, image_url) VALUES
-(1, 'Pink Floyd - The Wall', 'Θρυλικό άλμπουμ του 1979', 29.99, 10, 'assets/images/the-wall.jpg'),
-(1, 'The Beatles - Abbey Road', 'Κλασική δισκογραφία', 25.99, 15, 'assets/images/abbey-road.jpg'),
-(2, 'Miles Davis - Kind of Blue', 'Κορυφαίο Jazz άλμπουμ', 27.99, 8, 'assets/images/kind-of-blue.jpg'),
-(3, 'David Bowie - Ziggy Stardust', 'Καμποσέ rock κλασικό', 26.99, 12, 'assets/images/ziggy-stardust.jpg'),
-(1, 'Led Zeppelin - IV', 'Τεράστιο rock άλμπουμ', 28.99, 9, 'assets/images/led-zeppelin-iv.jpg'),
-(4, 'Black Sabbath - Paranoid', 'Heavy Metal θρύλος', 24.99, 7, 'assets/images/paranoid.jpg'),
-(2, 'John Coltrane - A Love Supreme', 'Jazz απλούστερκο έργο', 26.99, 6, 'assets/images/love-supreme.jpg'),
-(5, 'Daft Punk - Homework', 'Electronic κλασικό', 23.99, 11, 'assets/images/homework.jpg');
+(1, 'Pink Floyd - The Wall', 'Θρυλικό άλμπουμ του 1979', 29.99, 10, 'assets/images/the-wall.svg'),
+(1, 'The Beatles - Abbey Road', 'Κλασική δισκογραφία', 25.99, 15, 'assets/images/abbey-road.svg'),
+(2, 'Miles Davis - Kind of Blue', 'Κορυφαίο Jazz άλμπουμ', 27.99, 8, 'assets/images/kind-of-blue.svg'),
+(3, 'David Bowie - Ziggy Stardust', 'Καμποσέ rock κλασικό', 26.99, 12, 'assets/images/ziggy-stardust.svg'),
+(1, 'Led Zeppelin - IV', 'Τεράστιο rock άλμπουμ', 28.99, 9, 'assets/images/led-zeppelin-iv.svg'),
+(4, 'Black Sabbath - Paranoid', 'Heavy Metal θρύλος', 24.99, 7, 'assets/images/paranoid.svg'),
+(2, 'John Coltrane - A Love Supreme', 'Jazz απλούστερκο έργο', 26.99, 6, 'assets/images/love-supreme.svg'),
+(5, 'Daft Punk - Homework', 'Electronic κλασικό', 23.99, 11, 'assets/images/homework.svg');
 
 -- Create Admin User (password: admin123)
 INSERT INTO users (username, email, password, first_name, last_name, role) VALUES
