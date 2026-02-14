@@ -1,10 +1,10 @@
 {
-  "Pink Floyd - The Wall": "assets/images/the-wall.svg",
-  "The Beatles - Abbey Road": "assets/images/abbey-road.svg",
-  "Miles Davis - Kind of Blue": "assets/images/kind-of-blue.svg",
-  "David Bowie - Ziggy Stardust": "assets/images/ziggy-stardust.svg",
-  "Led Zeppelin - IV": "assets/images/led-zeppelin-iv.svg",
-  "Black Sabbath - Paranoid": "assets/images/paranoid.svg",
-  "John Coltrane - A Love Supreme": "assets/images/love-supreme.svg",
-  "Daft Punk - Homework": "assets/images/homework.svg"
+  "Pink Floyd - The Wall": "https://upload.wikimedia.org/wikipedia/en/1/13/Pink_Floyd_The_Wall_cover.jpg",
+  "The Beatles - Abbey Road": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg",
+  "Miles Davis - Kind of Blue": "https://upload.wikimedia.org/wikipedia/en/7/7a/MilesDavisKindofBlue.jpg",
+  "David Bowie - Ziggy Stardust": "https://upload.wikimedia.org/wikipedia/en/0/02/ZiggyStardust.jpg",
+  "Led Zeppelin - IV": "https://upload.wikimedia.org/wikipedia/en/1/1b/Led_Zeppelin_-_Led_Zeppelin_IV.jpg",
+  "Black Sabbath - Paranoid": "https://upload.wikimedia.org/wikipedia/en/3/3f/Black_Sabbath_-_Paranoid.jpg",
+  "John Coltrane - A Love Supreme": "https://upload.wikimedia.org/wikipedia/en/1/1f/John_Coltrane_-_A_Love_Supreme.jpg",
+  "Daft Punk - Homework": "https://upload.wikimedia.org/wikipedia/en/6/6d/Daft_Punk_-_Homework.jpg"
 }
